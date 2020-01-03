@@ -8,6 +8,8 @@
 
 [size=14pt][font=Roboto][b]Proof Of Biblehash (POBH)[/b] rewards full node participation, while preventing GPUs and ASICs by requiring full blockchain transaction referencing in the hashing function using chained bible verses
 
+[b]Proof Of Distributed Computing (PODC)[/b] allows blockchain energy to be used productively, for humanitarian science research, to help cure cancer and fight AIDS and malaria
+
 [color=maroon]Launched July 23rd 2017 by Rob Andrews, with no premine and no ICO, BiblePay describes itself as a decentralized autonomous cryptocurrency that gives 10% to orphan-charity (using Masternode (Sanctuary) governance). The project is passionate about spreading the gospel of Jesus, having the entire KJV bible compiled in its hashing algorithm (POBH). BiblePay (BBP) is deflationary, decreasing its emissions by 19.5% per year.
 
 The project views itself as a utility that provides an alternative method for giving to charity. With [url=https://wiki.biblepay.org/Generic_Smart_Contracts][b]Generic Smart Contracts[/b][/url], the project seeks to become the go-to wallet for Christians. In the future, the team intends to lease file space on its Masternodes and release corporate integration features, such as C# access to the blockchain. The BiblePay platform is a derivative of [url=https://bitcointalk.org/index.php?topic=421615.0][b]Dash-Evolution[/b][/url]. Located in Dallas, TX, the team seeks to help orphans globally. The roadmap can be viewed at: [url=https://wiki.biblepay.org/Roadmap]wiki.biblepay.org/Roadmap[/url][/color]
@@ -20,11 +22,11 @@ The project views itself as a utility that provides an alternative method for gi
 
 [size=20pt][font=Roboto][b]Accomplishments:[/b][/font][/size]
 
-[size=14pt][font=Roboto]- Sponsoring 100+ [url=http://accountability.biblepay.org/][b]Orphans[/b][/url] every month!
+[size=14pt][font=Roboto]- [url=https://bitcointalk.org/index.php?topic=2388064.msg46608941#msg46608941][b]$200,000+[/b][/url] donated to Charity!
 
 - [url=https://boincstats.com/en/stats/-1/team/detail/831912762/overview][b]30,000+ years[/b][/url] CPU time donated to Cancer Research!
 
-- [url=https://bitcointalk.org/index.php?topic=2388064.msg46608941#msg46608941][b]$200,000+[/b][/url] donated to Charity!
+- Sponsoring 100+ [url=http://accountability.biblepay.org/][b]Orphans[/b][/url] every month!
 
 [hr]
 
@@ -38,9 +40,11 @@ The project views itself as a utility that provides an alternative method for gi
 
 [url=https://wiki.biblepay.org/Nutrition_Information]Nutrition Information[/url]
 
-[url=http://wiki.biblepay.org/Quick_Start]Quick Start[/url]
+[url=https://wiki.biblepay.org/Dimensions]Dimensions[/url]
 
 [url=https://www.reddit.com/r/BiblePay/comments/bifvpk/biblepay_evolution_what_is_it/]BiblePay Evolution[/url]
+
+[url=https://bitcointalk.org/index.php?topic=421615.0]Dash Coin[/url]
 
 [/td]
 
@@ -53,12 +57,23 @@ The project views itself as a utility that provides an alternative method for gi
 
 [url=https://www.reddit.com/r/BiblePay/comments/db0c36/christian_spaces/]Christian Spaces[/url]
 
-[url=https://wiki.biblepay.org/PODC]Proof of Distributed Computing (PODC)[/url]
+[url=https://wiki.biblepay.org/PODC_Setup]Proof of Distributed Computing (PODC)[/url]
 
-[url=https://forum.biblepay.org/index.php?topic=468.0]Dynamic Whale Staking (DWS)[/url]
+[url=https://wiki.biblepay.org/DWS_Setup]Dynamic Whale Staking (DWS)[/url]
+
+[url=https://wiki.biblepay.org/DashPay_RPC]DashPay Gift Cards[/url]
 [/td]
 [/tr]
 [/table]
+
+[hr]
+
+[size=20pt][font=Roboto][b]Utility:[/b][size=14pt]
+
+DashPay - Instantly Buy Gift Cards with BiblePay (using Dash, InstantSend and Bitrefill)
+[url=https://wiki.biblepay.org/DashPay_RPC]wiki.biblepay.org/DashPay_RPC[/url]
+
+[url=https://wiki.biblepay.org/DashPay_RPC][img width=384]https://i.imgur.com/yo1espM.png[/img][/url]
 
 [hr]
 
@@ -70,7 +85,7 @@ The project views itself as a utility that provides an alternative method for gi
 
 =
 
-NOTE: v1.4.3.1 [url=https://wiki.biblepay.org/Evolution_Upgrade]Upgrading to Evolution[/url]
+[size=14pt]NOTE: v1.4.3.1 [url=https://wiki.biblepay.org/Evolution_Upgrade]Upgrading to Evolution[/url]
 
 [u]Need to copy "wallet.dat" file to new directory[/u]
 
@@ -102,7 +117,7 @@ Mac OSX - [url=https://biblepay.org/biblepaycore-evo.dmg]biblepay.org/biblepayco
 =
 
 Linux GUI 32 bit - [url=https://biblepay.org/biblepay-qt-evo-i686-pc-linux-gnu.tar.gz]biblepay-qt-evo-i686-pc-linux-gnu.tar.gz[/url] ([url=https://biblepay.org/biblepay-qt-evo-i686-pc-linux-gnu.hash.htm]Hash[/url])
-Linux GUI 64 bit - [url=https://biblepay.org/biblepayd-evo-x86_64-pc-linux-gnu.tar.gz]biblepayd-evo-x86_64-pc-linux-gnu.tar.gz[/url]  ([url=https://biblepay.org/biblepayd-evo-x86_64-pc-linux-gnu.hash.htm]Hash[/url])
+Linux GUI 64 bit - [url=https://biblepay.org/biblepay-qt-evo-x86_64-pc-linux-gnu.tar.gz]biblepay-qt-evo-x86_64-pc-linux-gnu.tar.gz[/url]  ([url=https://biblepay.org/biblepay-qt-evo-x86_64-pc-linux-gnu.hash.htm]Hash[/url])
 
 Linux CLI 32 bit - [url=https://biblepay.org/biblepayd-evo-i686-pc-linux-gnu.tar.gz]biblepayd-evo-i686-pc-linux-gnu.tar.gz[/url]  ([url=https://biblepay.org/biblepayd-evo-i686-pc-linux-gnu.hash.htm]Hash[/url])
 Linux CLI 64 bit - [url=https://biblepay.org/biblepayd-evo-x86_64-pc-linux-gnu.tar.gz]biblepayd-evo-x86_64-pc-linux-gnu.tar.gz[/url]  ([url=https://biblepay.org/biblepayd-evo-x86_64-pc-linux-gnu.hash.htm]Hash[/url])
@@ -132,47 +147,38 @@ iOS - [url=https://apps.apple.com/us/app/biblepay-wallet/id1467714837]apps.apple
 
 [size=20pt][font=Roboto][b]Mining Guides:[/b][/font]
 
-[size=16pt][font=Roboto]Quick Start
-[url=https://wiki.biblepay.org/Quick_Start]wiki.biblepay.org/Quick_Start[/url]
+[size=16pt][font=Roboto]Proof of Distributed Computing[size=14pt][font=Roboto]
+[url=https://wiki.biblepay.org/PODC_Setup]wiki.biblepay.org/PODC_Setup[/url]
 
-[size=14pt][font=Roboto]External Miner with NOMP Pool
-[url=https://whitewalr.us/2019/biblepay-nomp-pool-mining.html]whitewalr.us/2019/biblepay-nomp-pool-mining.html[/url]
-
-Windows
-[url=https://www.reddit.com/r/BiblePay/comments/6umlqq/how_to_mine_biblepay_on_windows/]reddit.com/r/BiblePay/comments/6umlqq/how_to_mine_biblepay_on_windows/[/url]
-
-Linux
-[url=https://www.reddit.com/r/BiblePay/comments/6ummuj/how_to_mine_biblepay_on_linux/]reddit.com/r/BiblePay/comments/6ummuj/how_to_mine_biblepay_on_linux/[/url]
+[size=16pt][font=Roboto]Proof of BibleHash[size=14pt][font=Roboto]
+[url=https://wiki.biblepay.org/POBH_Setup]wiki.biblepay.org/POBH_Setup[/url]
 
 [size=20pt][font=Roboto][b]Mining Pools:[/b][/font]
 
 [list]
-[li]Nomp:           [url=http://nomp.biblepay.org]http://nomp.biblepay.org[/url]
+[li][size=14pt][font=Roboto]Rob:  [url=http://nomp.biblepay.org]http://nomp.biblepay.org[/url]
 [/li]
-[li]LeoPool:         [url=http://leopool.biblepay.org:8080]http://leopool.biblepay.org:8080[/url]
+[li][size=14pt][font=Roboto]Sun:  [url=http://sunpool.whitewalr.us]http://sunpool.whitewalr.us[/url]
 [/li]
-[li]Suns Pool:      [url=http://5.135.183.202]http://5.135.183.202[/url]
+[li][size=14pt][font=Roboto]Leo:  [url=http://leopool.biblepay.org]http://leopool.biblepay.org[/url]
 [/li]
 [/list]
 
 [size=14pt][font=Roboto]MiningPoolStats
-[url=https://miningpoolstats.stream/biblepay]https://miningpoolstats.stream/biblepay[/url]
+[url=https://miningpoolstats.stream/biblepay]miningpoolstats.stream/biblepay[/url]
 
 [hr]
 
 [size=20pt][font=Roboto][b]Earn Coins:[/b][/font]
 
-[size=14pt][font=Roboto]Faucet (Register Pool Account):
-[url=https://www.reddit.com/r/BiblePay/comments/76mqqf/biblepay_faucet_free_bbp_coins_for_registering/]reddit.com/r/BiblePay/comments/76mqqf/biblepay_faucet_free_bbp_coins_for_registering/[/url]
-
-FreeFaucet.io:
+[size=14pt][font=Roboto]FreeFaucet.io:
 [url=https://freefaucet.io/claim/index.php?coin_name=biblepay&faucet_key=freefaucet18&claim=Claim]freefaucet.io/claim/index.php?coin_name=biblepay&faucet_key=freefaucet18&claim=Claim[/url]
 
-Reading/Listening/Watching Gospel Links:
-[url=https://www.reddit.com/r/BiblePay/comments/7e9uho/gospel_link_rewards/]reddit.com/r/BiblePay/comments/7e9uho/gospel_link_rewards/[/url]
+SouthXchange Faucet:
+[url=https://www.southxchange.com/Balance/Faucet]southxchange.com/Balance/Faucet[/url]
 
-Orphan Letter Writing:
-[url=https://www.biblepay.org/freebbp/#letterwriting]biblepay.org/freebbp/#letterwriting[/url]
+Healing Campaign (Diary Entries):
+[url=https://wiki.biblepay.org/BiblePay_Healing_Campaign]wiki.biblepay.org/BiblePay_Healing_Campaign[/url]
 
 Bug Bounty Program:
 [url=https://forum.biblepay.org/index.php?topic=408.0]forum.biblepay.org/index.php?topic=408.0[/url]
@@ -192,10 +198,14 @@ Request Funds from Monthly Budget Proposal System for your work:
 
 [url=https://www.tokok.com/market?symbol=BBP_ETH][img width=250]https://i.imgur.com/NChoLYz.jpg[/img][/url]
 
+[url=https://graviex.net/markets/bbpbtc][img width=300]https://i.imgur.com/rzbDgz7.png[/img][/url]
+
 [list]
 [li][size=14pt][font=Roboto][url=https://www.southxchange.com/Market/Book/BBP/BTC]SouthXChange[/url][/li]
 
-[li][size=14pt][font=Roboto][url=https://www.tokok.com]Tokok[/url][/li]
+[li][size=14pt][font=Roboto][url=https://www.tokok.com/market?symbol=BBP_ETH]Tokok[/url][/li]
+
+[li][size=14pt][font=Roboto][url=https://graviex.net/markets/bbpbtc]Graviex[/url][/li]
 
 [/list]
 
@@ -228,8 +238,13 @@ Request Funds from Monthly Budget Proposal System for your work:
 [b]Circulation Characteristic: [/b] Deflationary
 [b]Emission Rate:[/b] -1.5% every month (19% per year compounded deflation)
 
-[b]Emission Schedule:[/b] [url=http://wiki.biblepay.org/Emission_Schedule]wiki.biblepay.org/Emission_Schedule[/url]
-[b]Economics:[/b] [url=https://wiki.biblepay.org/Economics]wiki.biblepay.org/Economics[/url]
+[b]Emission Schedule:[/b] 
+[url=http://wiki.biblepay.org/Emission_Schedule]wiki.biblepay.org/Emission_Schedule[/url]
+[url=https://wiki.biblepay.org/Emission_Schedule_2020]wiki.biblepay.org/Emission_Schedule_2020[/url]
+
+[b]Economics:[/b]
+[url=https://wiki.biblepay.org/Economics]wiki.biblepay.org/Economics[/url]
+[url=https://wiki.biblepay.org/Economic_Changes_Dec_2019]wiki.biblepay.org/Economic_Changes_Dec_2019[/url]
 
 [hr]
 
@@ -237,16 +252,19 @@ Request Funds from Monthly Budget Proposal System for your work:
 
   – 20.0% [b]Monthly Budget [/b]
 
-        – 10.0% [b]Charity[/b]
+        – 10.0% [b]Exchange[/b] (Fund Payoff)
         –   5.0% [b]IT [/b](Software Development)
-        –   2.5% [b]PR [/b](Public Relations)
-        –   2.5% [b]P2P [/b](Orphan Letters)
+        –   5.0% [b]MISC [/b](Miscellaneous)
 
-  – 30.0% [url=https://wiki.biblepay.org/Generic_Smart_Contracts][b]Generic Smart Contracts[/b][/url] (GSC)
+  – 38.0% [b]GSC[/b] (Generic Smart Contracts)
 
-  – 25.0% [b]Proof-Of-Bible-Hash[/b] (POBH)
+        – 60.0% [b]PODC[/b] (Science Research)
+        – 35.0% [b]POOM[/b] (Charity)
+        –   5.0% [b]Healing[/b] (Prayer Diary)
 
-  – 25.0% [b]Masternode[/b] (Sanctuary)[/font][/size]
+  –  7.0% [b]POBH[/b] (Heat Mining)
+
+  – 35.0% [b]Masternode[/b] (Sanctuary)[/font][/size]
 
 [hr]
 
